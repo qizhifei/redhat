@@ -1,0 +1,9 @@
+{
+    "name": "qizhifei/test",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
